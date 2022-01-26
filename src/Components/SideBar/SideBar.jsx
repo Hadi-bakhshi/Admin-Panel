@@ -12,7 +12,6 @@ import {
   DynamicFeed,
   ReportProblem,
   WorkOutline,
-
 } from "@material-ui/icons";
 
 const SideBar = () => {
